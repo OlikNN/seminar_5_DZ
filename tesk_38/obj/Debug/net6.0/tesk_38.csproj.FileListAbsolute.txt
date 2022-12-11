@@ -1,0 +1,15 @@
+C:\Users\Olik\Desktop\git_education\C Sharp\seminar_5_DZ\tesk_38\bin\Debug\net6.0\tesk_38.exe
+C:\Users\Olik\Desktop\git_education\C Sharp\seminar_5_DZ\tesk_38\bin\Debug\net6.0\tesk_38.deps.json
+C:\Users\Olik\Desktop\git_education\C Sharp\seminar_5_DZ\tesk_38\bin\Debug\net6.0\tesk_38.runtimeconfig.json
+C:\Users\Olik\Desktop\git_education\C Sharp\seminar_5_DZ\tesk_38\bin\Debug\net6.0\tesk_38.dll
+C:\Users\Olik\Desktop\git_education\C Sharp\seminar_5_DZ\tesk_38\bin\Debug\net6.0\tesk_38.pdb
+C:\Users\Olik\Desktop\git_education\C Sharp\seminar_5_DZ\tesk_38\obj\Debug\net6.0\tesk_38.csproj.AssemblyReference.cache
+C:\Users\Olik\Desktop\git_education\C Sharp\seminar_5_DZ\tesk_38\obj\Debug\net6.0\tesk_38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olik\Desktop\git_education\C Sharp\seminar_5_DZ\tesk_38\obj\Debug\net6.0\tesk_38.AssemblyInfoInputs.cache
+C:\Users\Olik\Desktop\git_education\C Sharp\seminar_5_DZ\tesk_38\obj\Debug\net6.0\tesk_38.AssemblyInfo.cs
+C:\Users\Olik\Desktop\git_education\C Sharp\seminar_5_DZ\tesk_38\obj\Debug\net6.0\tesk_38.csproj.CoreCompileInputs.cache
+C:\Users\Olik\Desktop\git_education\C Sharp\seminar_5_DZ\tesk_38\obj\Debug\net6.0\tesk_38.dll
+C:\Users\Olik\Desktop\git_education\C Sharp\seminar_5_DZ\tesk_38\obj\Debug\net6.0\refint\tesk_38.dll
+C:\Users\Olik\Desktop\git_education\C Sharp\seminar_5_DZ\tesk_38\obj\Debug\net6.0\tesk_38.pdb
+C:\Users\Olik\Desktop\git_education\C Sharp\seminar_5_DZ\tesk_38\obj\Debug\net6.0\tesk_38.genruntimeconfig.cache
+C:\Users\Olik\Desktop\git_education\C Sharp\seminar_5_DZ\tesk_38\obj\Debug\net6.0\ref\tesk_38.dll
